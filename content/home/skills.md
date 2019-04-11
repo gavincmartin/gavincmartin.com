@@ -22,33 +22,33 @@ subtitle = ""
   
 [[feature]]
   icon = "java"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Java"
 #   description = "100%"  
   
 [[feature]]
   icon = "linux"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Linux"
 #   description = "10%"
 
 [[feature]]
   icon = "docker"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Docker"
 
 [[feature]]
   icon = "jenkins"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Jenkins"
 
 [[feature]]
   icon = "git"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Git"
 
 [[feature]]
   icon = "aws"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "AWS"
 +++
