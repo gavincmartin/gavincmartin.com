@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "gavinmartin@utexas.edu"
 phone = "(713) 805-8729"
-address = "2600 Rio Grande St, Austin, TX, 78705, USA"
+address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
