@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -19,33 +19,63 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "The Univeristy of Texas at Austin | Cockrell School of Engineering"
+  organization_url = ""
+  title = "UT-Austin Engineering Honors Program"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2015-08-01"
+  date_end = "2019-12-01"
+  description = ""
+
+[[item]]
+  organization = "The University of Texas at Austin"
+  organization_url = ""
+  title = "Uniden Corporation of America Endowed Scholarship in Engineering"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-08-01"
+  date_end = "2019-12-01"
+  description = ""
+
+[[item]]
+  organization = "GE Aviation"
+  organization_url = ""
+  title = "Above & Beyond Bronze Award"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-08-01"
+  date_end = ""
+  description = ""
+  
+[[item]]
+  organization = "National Speech and Debate Association"
+  organization_url = ""
+  title = "Academic All-American"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-05-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "National Merit Scholarship Corporation"
+  organization_url = ""
+  title = "National Merit Scholar"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  certificate_url = ""
+  date_start = "2015-05-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "National Speech and Debate Association"
+  organization_url = ""
+  title = "4th Place in Public Forum Debate | NSDA National Tournament"
+  url = ""
+  certificate_url = ""
+  date_start = "2014-06-01"
+  date_end = ""
   description = ""
 
 +++
