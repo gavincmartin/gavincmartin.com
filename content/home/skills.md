@@ -48,6 +48,16 @@ subtitle = ""
   name = "Git"
 
 [[feature]]
+  icon = "project-diagram"
+  icon_pack = "fas"
+  name = "Project Management"
+
+[[feature]]
+  icon = "satellite"
+  icon_pack = "fas"
+  name = "Systems Engineering"
+
+[[feature]]
   icon = "aws"
   icon_pack = "fab"
   name = "AWS"

@@ -9,7 +9,7 @@ authors = ["gavincmartin"]
 superuser = true
 
 # Role/position
-role = "Aerospace and Software Engineer"
+role = "Aspiring Aerospace and Software Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -63,6 +63,11 @@ interests = [
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/gavincmartin"
+
+[[social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  link = "https://www.linkedin.com/in/gavincmartin/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/resume.pdf` and uncomment the lines below.
