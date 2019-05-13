@@ -23,9 +23,10 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Interest 1",
-  "Interest 3",
-  "Interest 2"
+  "Software Engineering",
+  "Modeling & Simulation",
+  "Autonomy & Robotics",
+  "Space Exploration"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -35,7 +36,7 @@ interests = [
 # List qualifications (such as academic degrees)
 
 [[education.courses]]
-  course = "BS in Aerospace Engineering"
+  course = "B.S. in Aerospace Engineering"
   institution = "The University of Texas at Austin"
   year = 2019
 
@@ -48,16 +49,6 @@ interests = [
   icon = "envelope"
   icon_pack = "fas"
   link = "mailto:gavinmartin@utexas.edu"  # For a direct email link, use "mailto:test@example.org".
-
-# [[social]]
-#   icon = "twitter"
-#   icon_pack = "fab"
-#   link = "https://twitter.com/GeorgeCushen"
-
-# [[social]]
-#   icon = "google-scholar"
-#   icon_pack = "ai"
-#   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
 [[social]]
   icon = "github"
@@ -78,6 +69,6 @@ interests = [
 
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I’m an undergraduate student at UT-Austin who is interested in applying software to tough technical problems. Whether it’s automating mission planning for deep space explorers, giving satellites the ability to *see*, or streamlining composites manufacturing, I love attacking new challenges in high-stakes environments.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I’m passionate about using software to inform effective decision-making or take humans out-of-the-loop altogether, letting teams, businesses, and missions move quickly and with the information they need.
