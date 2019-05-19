@@ -16,7 +16,7 @@ role = "Aspiring Aerospace and Software Engineer"
 organizations = [ { name = "The University of Texas at Austin", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Here are my interests"
+bio = "Some short bio here"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -48,7 +48,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "mailto:gavinmartin@utexas.edu"  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:gavinmartin645@gmail.com"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "github"
