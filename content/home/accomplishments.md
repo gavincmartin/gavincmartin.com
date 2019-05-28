@@ -19,7 +19,16 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "The Univeristy of Texas at Austin | Cockrell School of Engineering"
+  organization = "UT Research Week | The University of Texas at Austin"
+  organization_url = ""
+  title = "Longhorn Poster Session Audience Favorite Award (1st Place)"
+  url = ""
+  certificate_url = ""
+  date_start = "2019-04-01"
+  description = "[\"Machine Learning in Space: Seeker-1's Intelligent Vision System\"](files/seeker_utrw_poster.pdf)"
+
+[[item]]
+  organization = "Cockrell School of Engineering | The University of Texas at Austin"
   organization_url = ""
   title = "UT-Austin Engineering Honors Program"
   url = ""
