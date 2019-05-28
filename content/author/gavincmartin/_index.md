@@ -36,7 +36,7 @@ interests = [
 # List qualifications (such as academic degrees)
 
 [[education.courses]]
-  course = "B.S. in Aerospace Engineering"
+  course = "B.S., Aerospace Engineering Honors"
   institution = "The University of Texas at Austin"
   year = 2019
 
