@@ -16,7 +16,7 @@ role = "Aspiring Aerospace and Software Engineer"
 organizations = [ { name = "The University of Texas at Austin", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Some short bio here"
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""

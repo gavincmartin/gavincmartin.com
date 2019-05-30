@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   mission and specifically worked on improving their modeling and simulation software.
   
   My focus started with optimizing modules where possible to improve speed, scalability, and reliability,
-  and I eventually automated the MP team's workflow, piecing together mission simulation tools,
+  and I eventually worked towards automating much of the MP team's workflow, piecing together mission simulation tools,
   downstream analysis software, and data delivery processes using Jenkins and Docker. The work
   streamlined mission planning, made it easier to iterate quickly, and enabled a shift towards
   cloud-based computing resources.
