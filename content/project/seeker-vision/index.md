@@ -104,6 +104,7 @@ After iterative trainings and hyperparameter tuning, we developed a capable obje
 | Matthews Correlation Coefficient | 0.948                  | 0.936               |
 | Jaccard Coefficient              | 0.89                   | 0.888               |
 
+<center>{{< figure src="example-cygnus-detection.png" title="An example Cygnus detection" >}}</center>
 
 ## Delivery & Ongoing Work
 In May 2018, the TSL delivered a vision system to JSC capable of computing relative azimuth and elevation at a solution rate of 3-4 Hz. In August 2018, this vision system was selected for flight over competing systems after testing proved it to be the most robust solution available. It was integrated into the final Seeker-1 CubeSat and will be used in the navigation system during the 60-minute mission set to take place in Summer 2019.
