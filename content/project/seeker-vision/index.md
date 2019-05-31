@@ -46,7 +46,7 @@ summary = "A NASA-funded machine learning project for autonomous vision-based na
 
 
 # Seeker Vision
-I led a team of student researchers and engineers in the Texas Spacecraft Laboratory on the Seeker Vision project—an effort to give NASA’s Seeker spacecraft the ability to detect, identify, and localize another spacecraft (Cygnus) in orbit using nothing but a low-cost camera and CPU. We adapted neural networks to the space environment and integrated our machine learning models with flight software, giving the spacecraft new autonomous capabilities. The Seeker-1 CubeSat will use our _intelligent_ camera system for vision-based navigation during its mission in Summer 2019.
+I led a team of student researchers and engineers in the Texas Spacecraft Laboratory on the Seeker Vision project—an effort to give NASA’s Seeker spacecraft the ability to detect, identify, and localize another spacecraft (Cygnus) in orbit using nothing but a low-cost camera and CPU. We adapted neural networks to the space environment and integrated our machine learning models with flight software, giving the spacecraft new autonomous capabilities. The Seeker-1 CubeSat will use our intelligent camera system for vision-based navigation during its mission in Summer 2019.
 
 <center>{{< figure src="seeker-deep-space-tracking.gif" title="Tracking Cygnus against deep space (easier)" >}}</center>
 
@@ -73,7 +73,7 @@ or illuminate only half an object
 
 Additionally, our target spacecraft, Cygnus, is considered "non-cooperative," meaning that has no visual markers or reflectors that make computer vision easier, and does not actively communicate its position during the mission. Interaction with non-cooperative targets in space is difficult but highly desirable.
 
-We met our mission need for robustness and performance by training and tuning Google's MobileNet SSD v1 architecture. The lightweight object detector proved resilient and speedy in simulations and extensive hardware-in-the-loop testing.
+We met our mission need for robustness and performance by training and tuning models built from Google's MobileNet SSD v1 architecture. The lightweight object detector proved resilient and speedy in simulations and extensive hardware-in-the-loop testing.
 
 ### Synthetic Image Generation
 While training data for terrestrial vehicles is relatively easy to gather (though painstaking to label), imagery for training autonomous spacecraft is rather limited. Moreover, we needed images that exhaustively sampled backgrounds conditions and orientations. We immediately identified synthetic imagery as a critical mission need and developed software to create high-fidelity simulated images for training.
