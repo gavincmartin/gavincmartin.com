@@ -28,6 +28,16 @@ date_format = "2006"
   description = "[\"Machine Learning in Space: Seeker-1's Intelligent Vision System\"](files/seeker_utrw_poster.pdf)"
 
 [[item]]
+  organization = "The University of Texas at Austin"
+  organization_url = ""
+  title = "Tejas Scholarship Recipient"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-04-01"
+  date_end = "2019-12-01"
+  description = ""
+
+[[item]]
   organization = "Cockrell School of Engineering | The University of Texas at Austin"
   organization_url = ""
   title = "UT-Austin Engineering Honors Program"
@@ -45,6 +55,46 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2015-08-01"
   date_end = "2019-12-01"
+  description = ""
+
+[[item]]
+  organization = "The University of Texas at Austin"
+  organization_url = ""
+  title = "Dean's Honor List (x5)"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-08-01"
+  date_end = "2019-12-01"
+  description = ""
+
+[[item]]
+  organization = "College of Liberal Arts | The University of Texas at Austin"
+  organization_url = ""
+  title = "Plan II Honors Program"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-08-01"
+  date_end = "2019-05-01"
+  description = ""
+
+[[item]]
+  organization = "UT-Austin Aerospace Engineering Department Advisory Board (LUNAR Council)"
+  organization_url = ""
+  title = "Class of 2019 Representative"
+  url = ""
+  certificate_url = ""
+  date_start = "2015-08-01"
+  date_end = "2019-12-01"
+  description = ""
+
+[[item]]
+  organization = "Tejas Club"
+  organization_url = ""
+  title = "Philanthropy Chair"
+  url = ""
+  certificate_url = ""
+  date_start = "2016-11-01"
+  date_end = "2017-11-01"
   description = ""
 
 [[item]]
