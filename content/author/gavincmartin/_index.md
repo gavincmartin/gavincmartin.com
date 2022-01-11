@@ -9,11 +9,11 @@ authors = ["gavincmartin"]
 superuser = true
 
 # Role/position
-role = "Aspiring Aerospace and Software Engineer"
+role = "Software Systems Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "The University of Texas at Austin", url = "" } ]
+organizations = [ { name = "NASA Jet Propulsion Library", url = "https://www.jpl.nasa.gov/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -69,6 +69,7 @@ interests = [
 
 +++
 
-I’m an undergraduate student at UT-Austin who is interested in applying software to tough technical problems. Whether it’s automating mission planning for deep space explorers, giving satellites the ability to *see*, or streamlining composites manufacturing, I love attacking new challenges in high-stakes environments.
+I'm currently a Software Systems Engineer at NASA's Jet Propulsion Laboratory, and I lead a team of software engineers in ground software development for the Europa Clipper mission. Our spacecraft aims to assess the habitability of Jupiter's icy moon, and our team is building the mission planning software to make this dream a reality.
 
-I’m passionate about using software to inform effective decision-making or take humans out-of-the-loop altogether, letting teams, businesses, and missions move quickly and with the information they need.
+I'm passionate about applying software to complex problems and interesting domains--particularly space exploration! 
+
