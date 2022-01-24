@@ -129,7 +129,7 @@ which aimed to: (1) generate synthetic training data with a high degree of photo
 datasets, (3) provision cloud resources dedicated to neural network training, (4)
 evaluate trained models against real and synthetic data, and (5) support rapid iteration on 1-4.
 
-<center>{{< figure src="tsl-ml.png" title="An ML pipeline built for rapid training and iteration" >}}</center>
+<center>{{< figure src="tsl-ml-pipeline.png" title="An ML pipeline built for rapid training and iteration" >}}</center>
 
 Subsequent generations of students at UT have built on our vision and have used this pipeline to improve model performance, tailor models to other types of spacecraft, and even perform full 6-DOF pose estimation on a CubeSat flight computer.
 
