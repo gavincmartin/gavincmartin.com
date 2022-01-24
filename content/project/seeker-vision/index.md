@@ -127,6 +127,10 @@ Using lessons learned from this mission, we architected a cutting-edge ML pipeli
 which aimed to: (1) generate synthetic training data with a high degree of photorealism,
 (2) stitch together real and synthetic data to produce diverse training
 datasets, (3) provision cloud resources dedicated to neural network training, (4)
-evaluate trained models against real and synthetic data, and (5) support rapid iteration on 1-4. _(See publications in CV for more details)._
+evaluate trained models against real and synthetic data, and (5) support rapid iteration on 1-4.
+
+<center>{{< figure src="tsl-ml.png" title="An ML pipeline built for rapid training and iteration" >}}</center>
 
 Subsequent generations of students at UT have built on our vision and have used this pipeline to improve model performance, tailor models to other types of spacecraft, and even perform full 6-DOF pose estimation on a CubeSat flight computer.
+
+For more information on the excellent work of these students, check out _[A Pipeline for Vision-Based On-Orbit Proximity Operations Using Deep Learning and Synthetic Imagery](https://arxiv.org/pdf/2101.05661.pdf)_ and _[Flight-Ready, Non-Cooperative Spacecraft Pose Estimation Using Monocular Imagery](https://arxiv.org/pdf/2101.09553.pdf)_.
