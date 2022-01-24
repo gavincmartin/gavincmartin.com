@@ -18,6 +18,39 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Software Systems Engineer"
+  company = "NASA Jet Propulsion Laboratory"
+  company_url = "https://www.jpl.nasa.gov/"
+  location = "Pasadena, California"
+  date_start = "2020-05-01"
+  date_end = ""
+  description = """
+  """
+
+[[experience]]
+  title = "Engineering Applications Software Engineer"
+  company = "NASA Jet Propulsion Laboratory"
+  company_url = "https://www.jpl.nasa.gov/"
+  location = "Pasadena, California"
+  date_start = "2020-01-13"
+  date_end = "2020-05-01"
+  description = """
+  """
+
+[[experience]]
+  title = "Software Systems Engineering Intern"
+  company = "Raytheon / NASA Jet Propulsion Laboratory"
+  company_url = "https://www.jpl.nasa.gov/"
+  location = "Remote / Pasadena, California"
+  date_start = "2019-04-01"
+  date_end = "2019-12-01"
+  description = """
+  I spent much of 2019 working at JPL as an intern--remotely during my spring and fall semesters as a Raytheon contractor to JPL and full-time (as an intern) in Pasadena over the summer.
+
+  I served as a representative for the Europa Clipper mission on a multi-mission software development team and collaborated on a Java framework for spacecraft activity planning and mission simulation. Specifically, I focused on designing the spacecraft modeling components of the framework and in developing the discrete event simulation engine to drive simulations.
+  """
+
+[[experience]]
   title = "Mission Planning Intern"
   company = "NASA Jet Propulsion Laboratory"
   company_url = "https://www.jpl.nasa.gov/"
@@ -60,7 +93,15 @@ date_format = "Jan 2006"
 
   Our computer vision system was integrated onto the flight unit and will be
   validated in space. **Seeker-1 launched on Cygnus NG-11 in April 2019 and
-  will be deployed from the ISS in Summer 2019**.
+  was deployed after a Cygnus re-supply in September 2019**.
+
+  Using lessons learned from this mission, we architected a cutting-edge ML pipeline
+  which aimed to: (1) generate synthetic training data with a high degree of photorealism,
+  (2) stitch together real and synthetic data to produce diverse training
+  datasets, (3) provision cloud resources dedicated to neural network training, (4) 
+  evaluate trained models against real and synthetic data, and (5) support rapid iteration on 1-4. *(See publications in CV for more details).*
+
+  Subsequent generations of students at UT have built on our vision and have used this pipeline to improve model performance, tailor models to other types of spacecraft, and even perform full 6-DOF pose estimation on a CubeSat flight computer.
   """
 
 [[experience]]
@@ -90,7 +131,7 @@ date_format = "Jan 2006"
   for satellite tracking and communication, developing robust real-time operations software,
   creating operations plans and procedures, and training students to operate ARMADILLO.
   Our efforts culminated in a successful Ground Operations Readiness Review and a green
-  light for launch. **ARMADILLO will launch on a SpaceX Falcon Heavy in 2019 (STP-2)**.
+  light for launch. **ARMADILLO successfully launched on a SpaceX Falcon Heavy in 2019 (STP-2)**.
   """
 
 [[experience]]
