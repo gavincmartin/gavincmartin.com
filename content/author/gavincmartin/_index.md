@@ -9,11 +9,11 @@ authors = ["gavincmartin"]
 superuser = true
 
 # Role/position
-role = "Software Systems Engineer"
+role = "Software Development Engineer II"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "NASA Jet Propulsion Laboratory", url = "https://www.jpl.nasa.gov/" } ]
+organizations = [ { name = "Amazon", url = "https://www.aboutamazon.com/news/tag/project-kuiper" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = ""
@@ -69,7 +69,6 @@ interests = [
 
 +++
 
-I'm currently a Software Systems Engineer at NASA's Jet Propulsion Laboratory, and I lead a team of software engineers in ground software development for the Europa Clipper mission. Our spacecraft aims to assess the habitability of Jupiter's icy moon, and our team is building the mission planning software to make this dream a reality.
+I'm currently a Software Development Engineer at Amazon working on the Project Kuiper satellite constellation, where our goal is to provide low-latency, high-speed broadband connectivity to unserved and underserved communities around the world. I work on the Constellation Operations team, building tooling for mission operations planning, testing, execution, and automation as we scale.
 
-I'm passionate about applying software to complex problems and interesting domains--particularly space exploration! 
-
+I'm passionate about applying software to complex problems and interesting domains--particularly space exploration and robotics! 

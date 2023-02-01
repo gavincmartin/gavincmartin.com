@@ -18,6 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Software Development Engineer II"
+  company = "Amazon"
+  company_url = "https://www.amazon.com/"
+  location = "Remote (Irvine, California)"
+  date_start = "2022-05-01"
+  date_end = ""
+  description = """
+  In my current role, I work on the Constellation Operations team for Project Kuiper. I build mission operations tooling for a variety of planning, execution, and automation use cases so that we can successfully operate our satellites as we scale the constellation.
+
+  As a precursor to on-orbit operations, I've also been heavily involved in hardware-in-the-loop testing of our flatsats and actual satellites on the ground. On our team, we have built test frameworks for running lower-level functional tests all the way up to high-level integration tests which exercise key concepts of operations, and we've built out automated reporting pipelines and dashboards using AWS services to drive progress in cross-program test campaigns.
+  """
+
+[[experience]]
   title = "Software Systems Engineer"
   company = "NASA Jet Propulsion Laboratory"
   company_url = "https://www.jpl.nasa.gov/"
@@ -25,9 +38,9 @@ date_format = "Jan 2006"
   date_start = "2020-05-01"
   date_end = ""
   description = """
-  In my current role, I continue lead the development of activity planning software for the Europa Clipper mission, and I have scaled my original team of 4 to 10 engineers in under 2 years.
+  During my stint as a Software Systems Engineer at JPL, I led activity planning software development for the Europa Clipper mission, and I scaled my original team (see below) of 4 to 10 engineers over 2 years.
 
-  We are designing next-generation planning systems to support distributed spacecraft operations at institutions across the U.S. We aim to model highly-complex systems, check system constraints, intelligently schedule ground & spacecraft behaviors, and empower operators to make effective decisions which preserve spacecraft safety while maximizing scientific output.
+  We designed next-generation planning systems to support distributed spacecraft operations at institutions across the U.S. We aimed to model highly-complex systems, check system constraints, intelligently schedule ground & spacecraft behaviors, and empower operators to make effective decisions which preserve spacecraft safety while maximizing scientific output.
   """
 
 [[experience]]
@@ -41,7 +54,7 @@ date_format = "Jan 2006"
   Once I joined JPL full-time, I was given the opportunity to lead a small team of
   4 engineers in developing activity planning software for the Europa Clipper mission. This task built upon my prior experiences in multi-mission ground software development and Europa Mission Planning.
 
-  As our team grew and I took on more systems architecture and engineering responsibilities, I formally transitioned to a Software Systems Engineering role.
+  As our team grew and I took on more systems architecture and engineering responsibilities, I formally transitioned to a Software Systems Engineering role (see above).
   """
 
 [[experience]]
