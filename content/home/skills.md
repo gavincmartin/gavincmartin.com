@@ -25,39 +25,9 @@ subtitle = ""
   name = "Python"
 
 [[feature]]
-  icon = "golang"
-  icon_pack = "fab"
-  name = "Go"
-
-[[feature]]
   icon = "aws"
   icon_pack = "fab"
   name = "AWS"
-  
-[[feature]]
-  icon = "sitemap"
-  icon_pack = "fas"
-  name = "Software Architecture"
-
-[[feature]]
-  icon = "server"
-  icon_pack = "fab"
-  name = "Backend Development"
-
-[[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git"
-
-[[feature]]
-  icon = "linux"
-  icon_pack = "fab"
-  name = "Linux"
-
-[[feature]]
-  icon = "docker"
-  icon_pack = "fab"
-  name = "Docker"
 
 [[feature]]
   icon = "robot"
@@ -65,9 +35,9 @@ subtitle = ""
   name = "Automation"
 
 [[feature]]
-  icon = "project-diagram"
+  icon = "sitemap"
   icon_pack = "fas"
-  name = "Project Management"
+  name = "Software Architecture"
 
 [[feature]]
   icon = "satellite"
