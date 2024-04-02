@@ -6,7 +6,7 @@ title = "Seeker Vision"
 date = 2019-05-29T12:00:00
 
 # Project summary to display on homepage.
-summary = "A NASA-funded machine learning project for autonomous vision-based navigation in space. Will fly on the Seeker CubeSat in Summer 2019."
+summary = "A NASA-funded machine learning project for autonomous vision-based navigation in space. Flew on the Seeker CubeSat in 2019."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`

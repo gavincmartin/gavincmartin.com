@@ -19,6 +19,60 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
+  organization = "NASA"
+  organization_url = "https://www.nasa.gov/"
+  title = "Discovery Award (Individual)"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-03-02"
+  description = "Implementing a proof of concept ... to resolve MOS issues with gathering and configuration management of activity definitions"
+
+[[item]]
+  organization = "NASA Jet Propulsion Laboratory"
+  organization_url = "https://www.jpl.nasa.gov/"
+  title = "Log4j Response Team Award (Team)"
+  url = ""
+  certificate_url = ""
+  date_start = "2022-03-01"
+  description = "For excellence in rapidly assessing and safely responding on behalf of Europa Clipper to the Log4j security vulnerability"
+
+[[item]]
+  organization = "NASA"
+  organization_url = "https://www.nasa.gov/"
+  title = "NASA Group Achievement Award (Team)"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-12-01"
+  description = "For excellence in developing comprehensive models and simulations providing crucial data for accurate and timely Europa Clipper mission architecture and design decisions"
+
+[[item]]
+  organization = "NASA Jet Propulsion Laboratory"
+  organization_url = "https://www.jpl.nasa.gov/"
+  title = "Discovery Award (Individual)"
+  url = ""
+  certificate_url = ""
+  date_start = "2021-09-01"
+  description = "For shepherding Europa Clipper adaptation of Merlin planning tool"
+
+[[item]]
+  organization = "NASA Jet Propulsion Laboratory"
+  organization_url = "https://www.jpl.nasa.gov/"
+  title = "Bonus Award (Team)"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-09-01"
+  description = "For contributions to the successful Europa Clipper PCE, MP S/W, and P&E S/W Peer Review"
+
+[[item]]
+  organization = "NASA Jet Propulsion Laboratory"
+  organization_url = "https://www.jpl.nasa.gov/"
+  title = "Voyager Award (Individual)"
+  url = ""
+  certificate_url = ""
+  date_start = "2020-08-01"
+  description = "For foundational advancement of Europa Clipper and Aerie Merlin simulation and scheduling concepts"
+
+[[item]]
   organization = "UT Research Week | The University of Texas at Austin"
   organization_url = ""
   title = "Longhorn Poster Session Audience Favorite Award (1st Place)"
@@ -58,16 +112,6 @@ date_format = "2006"
   description = ""
 
 [[item]]
-  organization = "The University of Texas at Austin"
-  organization_url = ""
-  title = "Dean's Honor List (x5)"
-  url = ""
-  certificate_url = ""
-  date_start = "2015-08-01"
-  date_end = "2019-12-01"
-  description = ""
-
-[[item]]
   organization = "College of Liberal Arts | The University of Texas at Austin"
   organization_url = ""
   title = "Plan II Honors Program"
@@ -75,26 +119,6 @@ date_format = "2006"
   certificate_url = ""
   date_start = "2015-08-01"
   date_end = "2019-05-01"
-  description = ""
-
-[[item]]
-  organization = "UT-Austin Aerospace Engineering Department Advisory Board (LUNAR Council)"
-  organization_url = ""
-  title = "Class of 2019 Representative"
-  url = ""
-  certificate_url = ""
-  date_start = "2015-08-01"
-  date_end = "2019-12-01"
-  description = ""
-
-[[item]]
-  organization = "Tejas Club"
-  organization_url = ""
-  title = "Philanthropy Chair"
-  url = ""
-  certificate_url = ""
-  date_start = "2016-11-01"
-  date_end = "2017-11-01"
   description = ""
 
 [[item]]

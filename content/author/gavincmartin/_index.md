@@ -9,7 +9,7 @@ authors = ["gavincmartin"]
 superuser = true
 
 # Role/position
-role = "Software Development Engineer II"
+role = "Senior Software Development Engineer"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -36,7 +36,7 @@ interests = [
 # List qualifications (such as academic degrees)
 
 [[education.courses]]
-  course = "B.S., Aerospace Engineering Honors"
+  course = "B.S., Aerospace Engineering"
   institution = "The University of Texas at Austin"
   year = 2019
 
@@ -69,6 +69,6 @@ interests = [
 
 +++
 
-I'm currently a Software Development Engineer at Amazon working on the Project Kuiper satellite constellation, where our goal is to provide low-latency, high-speed broadband connectivity to unserved and underserved communities around the world. I work on the Constellation Operations team, building tooling for mission operations planning, testing, execution, and automation as we scale.
+I'm currently a Senior Software Development Engineer at Amazon working on the Project Kuiper satellite constellation, where our goal is to provide low-latency, high-speed broadband connectivity to unserved and underserved communities around the world. I work on the Mission Operations team, building software for constellation operations planning, testing, execution, and automation as we scale to thousands of satellites orbiting the Earth.
 
 I'm passionate about applying software to complex problems and interesting domains--particularly space exploration and robotics! 

@@ -18,19 +18,41 @@ subtitle = ""
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-#   description = "100%"  
 
 [[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-#   description = "90%"
+
+[[feature]]
+  icon = "golang"
+  icon_pack = "fab"
+  name = "Go"
+
+[[feature]]
+  icon = "aws"
+  icon_pack = "fab"
+  name = "AWS"
   
+[[feature]]
+  icon = "sitemap"
+  icon_pack = "fas"
+  name = "Software Architecture"
+
+[[feature]]
+  icon = "server"
+  icon_pack = "fab"
+  name = "Backend Development"
+
+[[feature]]
+  icon = "git"
+  icon_pack = "fab"
+  name = "Git"
+
 [[feature]]
   icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-#   description = "10%"
 
 [[feature]]
   icon = "docker"
@@ -38,14 +60,9 @@ subtitle = ""
   name = "Docker"
 
 [[feature]]
-  icon = "jenkins"
-  icon_pack = "fab"
-  name = "Jenkins"
-
-[[feature]]
-  icon = "git"
-  icon_pack = "fab"
-  name = "Git"
+  icon = "robot"
+  icon_pack = "fas"
+  name = "Automation"
 
 [[feature]]
   icon = "project-diagram"
@@ -55,10 +72,5 @@ subtitle = ""
 [[feature]]
   icon = "satellite"
   icon_pack = "fas"
-  name = "Systems Engineering"
-
-[[feature]]
-  icon = "aws"
-  icon_pack = "fab"
-  name = "AWS"
+  name = "Spacecraft Systems"
 +++

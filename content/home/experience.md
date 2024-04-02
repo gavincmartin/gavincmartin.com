@@ -18,16 +18,34 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Software Development Engineer II"
-  company = "Amazon"
+  title = "Senior Software Development Engineer"
+  company = "Amazon - Project Kuiper"
   company_url = "https://www.amazon.com/"
-  location = "Remote (Irvine, California)"
-  date_start = "2022-05-01"
+  location = "Redmond, Washington"
+  date_start = "2024-04-01"
   date_end = ""
   description = """
-  In my current role, I work on the Constellation Operations team for Project Kuiper. I build mission operations tooling for a variety of planning, execution, and automation use cases so that we can successfully operate our satellites as we scale the constellation.
+  In my current role, I work on the Mission Operations team for Project Kuiper. I build constellation operations software for a variety of planning, execution, and automation use cases so that we can successfully operate our satellites as we continue to scale the constellation.
+  """
 
-  As a precursor to on-orbit operations, I've also been heavily involved in hardware-in-the-loop testing of our flatsats and actual satellites on the ground. On our team, we have built test frameworks for running lower-level functional tests all the way up to high-level integration tests which exercise key concepts of operations, and we've built out automated reporting pipelines and dashboards using AWS services to drive progress in cross-program test campaigns.
+
+[[experience]]
+  title = "Software Development Engineer II"
+  company = "Amazon - Project Kuiper"
+  company_url = "https://www.amazon.com/"
+  location = "Redmond, Washington"
+  date_start = "2022-05-01"
+  date_end = "2024-04-01"
+  description = """
+  In my role as an SDEII on the Mission Operations team, I helped our team drive operational readiness for our Protoflight satellite launch in October 2023. 
+
+  As a precursor to on-orbit operations, I was heavily involved in hardware-in-the-loop testing of our flatsats and actual satellites on the ground. Our team developed test frameworks for running everything from lower-level functional tests up to high-level system integration tests to exercise key concepts of operations. We also built out automated reporting pipelines and dashboards using AWS services to drive progress in cross-program test campaigns.
+
+  In addition to test work, we created a mission operations platform that empowered flight operators to author and execute Jupyter notebooks as ops procedures hosted on AWS SageMaker, and we built out a rich Python library to support ops use cases.
+
+  I was lucky enough to serve as the flight controller for one of our two Protoflight satellites on launch day. You can briefly catch me in the [Project Kuiper Protoflight Mission: Launch Day Highlights](https://www.youtube.com/watch?v=4CScMjPE744) video.
+
+  After the Protoflight launch, I worked on operations software to support scaling the constellation from 2 to 3000+ satellites, and I continued this work in my role as a Senior SDE.
   """
 
 [[experience]]
@@ -35,26 +53,15 @@ date_format = "Jan 2006"
   company = "NASA Jet Propulsion Laboratory"
   company_url = "https://www.jpl.nasa.gov/"
   location = "Pasadena, California"
-  date_start = "2020-05-01"
-  date_end = ""
-  description = """
-  During my stint as a Software Systems Engineer at JPL, I led activity planning software development for the Europa Clipper mission, and I scaled my original team (see below) of 4 to 10 engineers over 2 years.
-
-  We designed next-generation planning systems to support distributed spacecraft operations at institutions across the U.S. We aimed to model highly-complex systems, check system constraints, intelligently schedule ground & spacecraft behaviors, and empower operators to make effective decisions which preserve spacecraft safety while maximizing scientific output.
-  """
-
-[[experience]]
-  title = "Engineering Applications Software Engineer"
-  company = "NASA Jet Propulsion Laboratory"
-  company_url = "https://www.jpl.nasa.gov/"
-  location = "Pasadena, California"
   date_start = "2020-01-13"
-  date_end = "2020-05-01"
+  date_end = "2022-04-30"
   description = """
-  Once I joined JPL full-time, I was given the opportunity to lead a small team of
+  Once I joined JPL full-time, I was given the opportunity to spin up and lead a team of
   4 engineers in developing activity planning software for the Europa Clipper mission. This task built upon my prior experiences in multi-mission ground software development and Europa Mission Planning.
 
-  As our team grew and I took on more systems architecture and engineering responsibilities, I formally transitioned to a Software Systems Engineering role (see above).
+  Over the next 2.5 years, we scaled the team from 4 to 10 engineers.
+
+  We designed next-generation planning systems to support distributed spacecraft operations at institutions across the U.S. We built software to model highly-complex systems, check system constraints, intelligently schedule ground & spacecraft behaviors, and empower operators to make effective decisions which preserve spacecraft safety while maximizing scientific output.
   """
 
 [[experience]]
